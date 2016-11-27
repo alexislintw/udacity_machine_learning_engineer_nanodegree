@@ -3,6 +3,7 @@ This repository contains projects for Udacity's Machine Learning Engineer Progra
 
 Projects:
 
+- 0.Titanic Survival Exploration
 - 1.Predicting Boston Housing Prices
 - 2.Building a Student Intervention System
 - 3.Customer Segments
